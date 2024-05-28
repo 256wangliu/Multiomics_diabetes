@@ -1,1 +1,1 @@
-Heterogeneous enhancer states orchestrate  cell responses to metabolic stress
+Heterogeneous enhancer states orchestrate Beta cell responses to metabolic stress
